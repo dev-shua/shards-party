@@ -1,0 +1,13 @@
+{
+  "SP.Panel.Title": "Groupe",
+  "SP.Fields.AC": "CA",
+  "SP.Fields.PassivePerception": "Perception passive",
+  "SP.Fields.PassiveInvestigation": "Investigation passive",
+  "SP.Fields.Speed": "Vitesse",
+  "SP.Fields.HP": "PV",
+  "SP.Fields.Inspiration": "Inspiration",
+  "SP.Fields.Initiative": "Initiative",
+  "SP.Panel.Empty": "Aucun personnage joueur.",
+  "SP.Config.Title": "Champs affichés",
+  "SP.Config.Save": "Sauvegarder"
+}

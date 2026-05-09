@@ -1,0 +1,13 @@
+{
+  "SP.Panel.Title": "Party",
+  "SP.Fields.AC": "AC",
+  "SP.Fields.PassivePerception": "Passive Perception",
+  "SP.Fields.PassiveInvestigation": "Passive Investigation",
+  "SP.Fields.Speed": "Speed",
+  "SP.Fields.HP": "HP",
+  "SP.Fields.Inspiration": "Inspiration",
+  "SP.Fields.Initiative": "Initiative",
+  "SP.Panel.Empty": "No player characters found.",
+  "SP.Config.Title": "Displayed fields",
+  "SP.Config.Save": "Save"
+}
