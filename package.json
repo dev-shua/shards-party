@@ -1,6 +1,6 @@
 {
-  "name": "shards-travel",
-  "description": "Travel module for Foundry VTT",
+  "name": "shards-party",
+  "description": "Party overview panel for SHARDS Dock",
   "license": "MIT",
   "author": "Shua",
   "private": true,
