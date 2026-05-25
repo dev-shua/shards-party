@@ -1,5 +1,11 @@
 # Changelog
 
-## [1.0.0] - 2026-05-25
+## [1.0.1] - 2025-05-25
+
+### Fixed
+- Corrected package name and description in package.json
+- Updated module.json compatibility to v14
+
+## [1.0.0] - 2026-05-09
 
 - Initial release
